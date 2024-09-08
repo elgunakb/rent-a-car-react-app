@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
 
 Liver project : 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a302e3ae-3a20-424f-b718-ea0854301adb/deploy-status)](https://app.netlify.com/sites/rent-a-car-akb/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a302e3ae-3a20-424f-b718-ea0854301adb/deploy-status)](https://rent-a-car-akb.netlify.app/)
 
 
 
