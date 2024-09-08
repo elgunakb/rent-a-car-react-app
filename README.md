@@ -47,9 +47,7 @@ To run this project locally, follow these steps:
    ```bash
    npm run dev
    ```
-
-[Rent-a-Car Project Live Demo](https://rent-a-car-akb.netlify.app/)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a302e3ae-3a20-424f-b718-ea0854301adb/deploy-status)](https://app.netlify.com/sites/rent-a-car-akb/deploys)
 
 
 
