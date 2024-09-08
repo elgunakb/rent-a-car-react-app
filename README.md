@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 
-The app will be available on `http://localhost:3000](https://rent-a-car-akb.netlify.app/`.
+[Rent-a-Car Project Live Demo](https://rent-a-car-akb.netlify.app/)
 
 
 
