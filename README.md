@@ -48,14 +48,11 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 
-The app will be available on `http://localhost:3000`.
+The app will be available on `http://localhost:3000](https://rent-a-car-akb.netlify.app/`.
 
-## Deployment
 
-This project can be deployed easily on platforms such as **Vercel**, **Netlify**, or any static hosting provider.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+
 
 ---
